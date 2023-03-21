@@ -1,0 +1,5 @@
+deb http://deb.debian.org/debian/ sid main non-free contrib
+deb-src http://deb.debian.org/debian/ sid main non-free contrib
+
+deb https://deb.volian.org/volian/ scar main
+deb-src https://deb.volian.org/volian/ scar main
